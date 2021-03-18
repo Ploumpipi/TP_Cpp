@@ -1,0 +1,6 @@
+﻿  TP.cpp
+C:\Users\Ploump\Documents\GitHub\programmation_CPP_Cycle_2_F2\Cpp_Ludus_F2-2020_2021\TP_cpp\TP_Cpp\TP_Cpp\TP.cpp(122,55): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Ploump\Documents\GitHub\programmation_CPP_Cycle_2_F2\Cpp_Ludus_F2-2020_2021\TP_cpp\TP_Cpp\TP_Cpp\TP.cpp(123,55): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  main.cpp
+  Génération de code en cours...
+  TP_Cpp.vcxproj -> C:\Users\Ploump\Documents\GitHub\programmation_CPP_Cycle_2_F2\Cpp_Ludus_F2-2020_2021\TP_cpp\TP_Cpp\x64\Debug\TP_Cpp.exe
